@@ -1,7 +1,7 @@
 # CalcX-Calculator-App
 CalcX Calculator App is a web application built using React.js
 
-Live : 
+Live : https://calx-calculator-app.netlify.app/
 # 💫 About The App :
 CalcX Calculator App is a web application built using React.js. It provides a user-friendly interface for performing basic arithmetic calculations. The app allows users to input numbers and perform operations such as addition, subtraction, multiplication, and division. It also supports the evaluation of complex mathematical expressions.
 
